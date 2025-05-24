@@ -8,7 +8,6 @@ import datetime as dt
 import zipcodes
 import re
 
-
 def get_coordinates(search_type, search_key):
     api_key = "cec6befc54d5759598e5d8208d5e5f10"
 
